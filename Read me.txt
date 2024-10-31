@@ -1,0 +1,65 @@
+●Projeto Final PHP●
+
+Admin Account
+Login: booknook@gmail.com
+Password: 12345
+
+
+Requisitos:
+
+●Front-end●
+
+Ser feito com a framework Bootstrap e responsivo -  ✔ 
+
+Na Homepage um Slider de JavaScript -  ✔ (index.php)
+
+Para o visitante:
+	homepage -  ✔ (index.php)
+	register -  ✔ (signup.php)
+	contact -  ✔ (contact.php)
+	about us -  ✔ (aboutus.php)
+	view cart -  ✔ (cart.php)
+
+
+●Back-End●
+
+Base de dados em MySQL - ✔
+
+Tabelas em MySql -  ✔ (Folder: MySql tables) 
+
+Para o Admin: 
+	category -  ✔ (main-categories.php / outros)
+	sub-category -  ✔ (sub-categories / outros)
+	books -  ✔ (main-product-page.php / outros)
+	contact -  ✔ (admin-perfil.php)
+	logout -  ✔ (logout.php / outros)
+
+
+●Features do Visitante●
+
+User Registration - ✔ (signup.php)
+
+User Login - ✔ (login.php)
+
+Check the details about us - ✔ (user-perfil.php)
+ 
+Contact to Admin - ✔ (contact.php)
+
+Search Book - ✔ (allbooks.php)
+
+Add to Cart book - ✔ (allbooks.php / book.php / catalogue.php)
+
+Payment at delivery - ✔ (user-perfil.php > my orders)
+
+
+●Features Admin●
+
+Add/update/Delete Categories -  ✔ (main-categories.php / edit-category-page.php)
+
+Add/update/Delete Sub Categories -  ✔ (sub-categories.php / edit-sub-category.php)
+
+Add/update/Delete Books Records -  ✔ (add-product-page.php / edit-product-page.php / product-details.php)
+
+Check the existing users -  ✔ (manage-users.php)
+
+Check the Book orders from different users -  ✔ (view-user-orders.php)
